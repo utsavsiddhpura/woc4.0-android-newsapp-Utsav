@@ -24,9 +24,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="NEWS"
-                android:textStyle="bold"
+                android:textColor="@color/white"
                 android:textSize="20sp"
-                android:textColor="#F7F7D4">
+                android:textStyle="bold">
 
             </TextView>
         </RelativeLayout>
@@ -44,7 +44,7 @@
         app:tabIndicatorHeight="3.5dp"
         app:tabMode="scrollable"
         app:tabSelectedTextColor="#FEFE33"
-        app:tabTextColor="#FEFE33">
+        app:tabTextColor="@color/white">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/home"

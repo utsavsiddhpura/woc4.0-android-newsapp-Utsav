@@ -25,7 +25,7 @@
             android:padding="5dp"
             android:ellipsize="end"
             android:maxLines="2"
-            android:textColor="@color/white"
+            android:textColor="?android:textColorPrimary"
             android:text="mian headin display here"
             android:textSize="20sp"
             android:textStyle="bold">
@@ -79,7 +79,7 @@
                 android:layout_height="match_parent"
                 android:id="@+id/time"
                 android:padding="5dp"
-                android:textColor="@color/white"
+                android:textColor="?android:textColorPrimary"
                 android:text="published at"
                 android:textStyle="bold"
                 android:textSize="12sp"

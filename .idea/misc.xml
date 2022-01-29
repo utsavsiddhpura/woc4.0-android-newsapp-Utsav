@@ -4,12 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/activity_web_view.xml" value="0.1" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/entertainmentfragment.xml" value="0.2" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/healthfragment.xml" value="0.2" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/homefragment.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/layout_item.xml" value="0.22" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/sciencefragment.xml" value="0.2" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/sportsfragment.xml" value="0.2" />
         <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/layout/technologyfragment.xml" value="0.2" />
+        <entry key="..\:/Users/Utsav/Desktop/woc4.0-android-newsapp-Utsav/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10989583333333333" />
       </map>
     </option>
   </component>
